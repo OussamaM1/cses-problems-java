@@ -8,6 +8,7 @@ This repository is a notebook consisting of all my solutions to some selected pr
 | --- | ------------------------------------------------------- | --------------------------------------------------- |
 | 0   | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [java](./Introductory-Problems/WeirdAlgorithm.java) |
 | 1   | [Missing Number](https://cses.fi/problemset/task/1083)  | [java](./Introductory-Problems/MissingNumber.java)  |
+| 2   | [Repetitions](https://cses.fi/problemset/task/1069)     | [java](./Introductory-Problems/Repetitions.java)    |
 
 ---
 
