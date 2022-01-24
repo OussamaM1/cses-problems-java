@@ -10,6 +10,7 @@ This repository is a notebook consisting of all my solutions to some selected pr
 | 1   | [Missing Number](https://cses.fi/problemset/task/1083)  | [java](./Introductory-Problems/MissingNumber.java)  |
 | 2   | [Repetitions](https://cses.fi/problemset/task/1069)     | [java](./Introductory-Problems/Repetitions.java)    |
 | 3   | [Increasing Array](https://cses.fi/problemset/task/1094) | [java](./Introductory-Problems/Repetitions.java)
+| 4   | [Permutations](https://cses.fi/problemset/task/1070)  | [java](./Introductory-Problems/Permutations.java)
 
 ---
 
